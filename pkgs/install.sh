@@ -1,4 +1,4 @@
-#!/bin/bsah
+#!/bin/bash
 
 /usr/bin/sudo apt-get install mrpt
 /usr/bin/sudo /usr/bin/dpkg -i *.deb
